@@ -1,7 +1,7 @@
 {
   "city": "Alhusary_hafs",
   "stations": [
-    { "name": "001 Al-Fatiha", "url": "http://server13.mp3quran.net/husr/001.mp3" },
+    { "name": "001 Al-Fatiha", "url": "https://server13.mp3quran.net/husr/001.mp3" },
     { "name": "002 Al-Baqarah", "url": "http://server13.mp3quran.net/husr/002.mp3" },
     { "name": "003 Aal-Imran", "url": "http://server13.mp3quran.net/husr/003.mp3" },
     { "name": "004 An-Nisa", "url": "http://server13.mp3quran.net/husr/004.mp3" },
