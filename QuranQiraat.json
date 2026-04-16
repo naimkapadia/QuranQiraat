@@ -2,8 +2,8 @@
   "city": "QuranQiraat",
   "stations": [
    {
-      "name": "Alhusary_Qalon",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranQiraat/main/Alhusary_qalon.json"
+      "name": "Qalon",
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranQiraat/main/qalon.json"
     },
 {
       "name": "Alhusary_Warsh",
