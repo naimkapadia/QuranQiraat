@@ -1,7 +1,7 @@
 {
   "city": "Alhusary_qalon",
   "stations": [
-    { "name": "001 Al-Fatiha", "url": "http://www.codeform3d.com/qaloon/001.wav" },
+    { "name": "001 Al-Fatiha", "url": "http://www.codeform3d.com/001new1.wav" },
     { "name": "002 Al-Baqarah", "url": "http://www.codeform3d.com/qaloon/002.wav" },
     { "name": "003 Aal-Imran", "url": "http://www.codeform3d.com/qaloon/003.wav" },
     { "name": "004 An-Nisa", "url": "http://www.codeform3d.com/qaloon/004.wav" },
