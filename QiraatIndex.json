@@ -3,27 +3,27 @@
   "stations": [
     {
       "name": "Hafs 1 of 2",
-      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/Birmingham.json"
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranQiraat/main/Hafs1-60.json"
     },
     {
       "name": "Hafs 2 od 2",
-      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/Blackburn.json"
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranQiraat/main/Hafs61-114.json"
     },
     {
       "name": "Qaloon 1 of 2",
-      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/Birmingham.json"
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranQiraat/main/Qaloon1-60.json"
     },
     {
       "name": "Qaloon 2 of 2",
-      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/Leicester.json"
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranQiraat/main/Qaloon61-114.json"
     },
     {
       "name": "Warsh 1 of 2 ",
-      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/London-East.json"
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranQiraat/main/Warsh1-60.json"
     },
 {
       "name": "Warsh 2 of 2",
-      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/Nuneaton.json"
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranQiraat/main/Warsh61-114.json"
     }
   ]
 }
