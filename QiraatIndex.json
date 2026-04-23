@@ -1,0 +1,29 @@
+{
+  "city": "Quran Radio",
+  "stations": [
+    {
+      "name": "Birmingham",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/Birmingham.json"
+    },
+    {
+      "name": "Blackburn",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/Blackburn.json"
+    },
+    {
+      "name": "Coventry",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/Birmingham.json"
+    },
+    {
+      "name": "Leicester",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/Leicester.json"
+    },
+    {
+      "name": "London-East",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/London-East.json"
+    },
+{
+      "name": "Nuneaton",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/Nuneaton.json"
+    }
+  ]
+}
