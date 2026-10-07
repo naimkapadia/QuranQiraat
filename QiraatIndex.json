@@ -3,7 +3,7 @@
   "stations": [
     {
       "name": "Hafs 1 of 2",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranQiraat/main/Hafs1-60.json"
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranQiraat/refs/heads/main/Hafs1-60.json"
     },
     {
       "name": "Hafs 2 of 2",
