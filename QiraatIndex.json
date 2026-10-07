@@ -2,14 +2,10 @@
   "city": "Quran Radio",
   "stations": [
     {
-      "name": "Hafs 1 of 2",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranQiraat/main/Hafs1-60.json"
+      "name": "Hafs",
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranQiraat/refs/heads/main/Hafs.json"
     },
-    {
-      "name": "Hafs 2 od 2",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranQiraat/main/Hafs61-114.json"
-    },
-    {
+      {
       "name": "Qaloon 1 of 2",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranQiraat/main/Qaloon1-60.json"
     },
